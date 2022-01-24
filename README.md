@@ -1,5 +1,5 @@
 # Java_Coding_2
-Tree structures, recursion, and the Visitor and Composite design patterns. 
+Tree structures, recursion, and the Visitor and Composite design patterns 
 
 Author: (Robert Lewis) Instructor: (Tim Kington) Date: (06/26/2019)
 
